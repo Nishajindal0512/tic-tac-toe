@@ -1,2 +1,4 @@
 # tic-tac-toe
-React project
+
+React tic tac toe project
+This is a simple project using tic-tac-toe
